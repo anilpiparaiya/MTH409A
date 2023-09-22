@@ -1,1 +1,1 @@
-# Financial-Analyst-Training-and-Investing-Course
+# The Complete Financial Analyst Training & Investing Course
