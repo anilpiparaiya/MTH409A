@@ -1,0 +1,4 @@
+Lab Notes1
+
+1. Unix The vi Editor Tutorial
+2. Vi-Typing-practice
